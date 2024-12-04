@@ -1,0 +1,51 @@
+    
+.container {
+        display: flex;
+        justify-Content: center;
+        align-Items: center;
+        height: 100vh;
+        background-Color: #f4f4f4;
+        margin: 0;
+    }
+    .formContainer {
+        background: white;
+        padding: 20px;
+        border-Radius: 8px;
+        box-Shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        width: 100%;
+        max-Width: 400px;
+    }
+    .heading {
+        margin-Bottom: 20px;
+        font-Size: 24px;
+        text-Align: center;
+    }
+    .text {
+        margin-Bottom: 20px;
+        font-Size: 16px;
+        text-Align: center;
+    }
+    input {
+        width: 92%;
+        padding: 15px;
+        margin-Bottom: 20px;
+        border: 1px solid #ddd;
+        border-Radius: 4px;
+    }
+    .button{
+        width: 100%;
+        padding: 10px;
+        background-Color: #007BFF;
+        color: white;
+        border: none;
+        border-Radius: 4px;
+        cursor: pointer;
+        font-Size: 16px;
+    }
+    .message {
+        margin-Top: 10px;
+        font-Size: 14px;
+        color: green;
+        text-Align: center;
+    }
+
